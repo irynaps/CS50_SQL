@@ -1,0 +1,1 @@
+SELECT "english_title", "artist" from "views" ORDER BY "brightness" DESC LIMIT 1;

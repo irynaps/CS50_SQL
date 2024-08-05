@@ -1,0 +1,1 @@
+ SELECT "english_title", MIN("brightness") AS 'The Darkest Painting By Hokusai' FROM "views" WHERE "artist" = 'Hokusai' ORDER BY "brightness";

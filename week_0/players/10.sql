@@ -1,0 +1,1 @@
+SELECT "last_name" AS "Players From North Carolina With Right Batting" FROM "players" WHERE "birth_state" = 'NC' ORDER BY "last_name";
